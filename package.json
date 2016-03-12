@@ -12,9 +12,9 @@
     "asset pipeline"
   ],
   "dependencies": {
-    "lodash": "^3.10.1",
+    "lodash": "^4.6.1",
     "marlinspike": "^1.0",
-    "webpack": "^1.9.6"
+    "webpack": "^1.12.14"
   },
   "scripts": {
     "prepublish": "gulp",
